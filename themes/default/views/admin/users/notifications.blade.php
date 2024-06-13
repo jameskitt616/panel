@@ -64,7 +64,11 @@
                                     <label>{{__('Send via')}}</label><br>
                                     <input value="database" id="database" name="via[]"
                                            type="checkbox">
-                                    <label for="database">{{__('Database')}}</label>
+                                  <label for="database">
+                                    {{__('Dashboard')}} <i data-toggle="popover" data-trigger="hover"
+                                                           data-content="{{ __('If this is checked, the Dashboard will show a Notification to the User') }}"
+                                                           class="fas fa-info-circle"></i>
+                                  </label>
                                     <br>
                                     <input value="mail" id="mail" name="via[]"
                                            type="checkbox">

@@ -120,6 +120,7 @@
     "We hope you can enjoy this hosting experience and if you have any suggestions please let us know": "We hope you can enjoy this hosting experience and if you have any suggestions please let us know",
     "Activity Logs": "Activity Logs",
     "Dashboard": "Dashboard",
+    "If this is checked, the Dashboard will show a Notification to the User": "If this is checked, the Dashboard will show a Notification to the User",
     "No recent activity from cronjobs": "No recent activity from cronjobs",
     "Are cronjobs running?": "Are cronjobs running?",
     "Check the docs for it here": "Check the docs for it here",
