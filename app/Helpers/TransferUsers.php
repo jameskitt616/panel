@@ -6,8 +6,7 @@
  * FILL IN THE DATABASE INFORMATION
  */
 
-function generateRandomString($length = 8)
-{
+function generateRandomString($length = 8) {
     $characters = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
     $charactersLength = strlen($characters);
     $randomString = '';
